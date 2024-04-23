@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { GithubOutlined, FilePdfOutlined } from '@ant-design/icons';
 import "./styles/cell.css";
 
-const Cell = ({ data }) => (
+const cell = ({ data }) => (
   <div className="cell-container">
     <article className="mini-post">
     <header>
@@ -22,7 +22,7 @@ const Cell = ({ data }) => (
   </div>
 );
 
-Cell.propTypes = {
+cell.propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string.isRequired,
     link: PropTypes.string,
@@ -32,4 +32,4 @@ Cell.propTypes = {
   }).isRequired,
 };
 
-export default Cell;
+export default cell;

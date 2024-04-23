@@ -5,7 +5,7 @@ import { Avatar } from 'antd';
 import "./styles/profile.css";
 
 const Profile = (props) => {
-	const { name, start, B_S, M_S, profile, link } = props;
+	const { name, start, B_S, profile, link } = props;
 
 	return (
 		<React.Fragment>
@@ -20,11 +20,8 @@ const Profile = (props) => {
                     <div className="profile-start">
                         {start}
                     </div>
-                    <div className="profile-ms">
-                        MS. {M_S}
-                    </div>
                     <div className="profile-bs">
-                        BS. {B_S}
+                        {B_S}
                     </div>
                 </div>
             </Link>

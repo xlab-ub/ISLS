@@ -23,11 +23,11 @@
 }
 
 .project-container {
-	padding: 30px;
+	padding: 10px;
 }
 
 .project-logo {
-	width: 60px;
+	width: 100px;
 }
 
 .project-logo img {
@@ -47,6 +47,7 @@
 	padding-right: 20px;
 	color: var(--secondary-color);
 	text-align: justify;
+	font-size: 12px;
 }
 
 .project-link {
