@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ISLS/static/css/main.4cf64400.css",
+    "main.js": "/ISLS/static/js/main.3da813fb.js",
+    "static/js/787.0c062b56.chunk.js": "/ISLS/static/js/787.0c062b56.chunk.js",
+    "index.html": "/ISLS/index.html",
+    "main.4cf64400.css.map": "/ISLS/static/css/main.4cf64400.css.map",
+    "main.3da813fb.js.map": "/ISLS/static/js/main.3da813fb.js.map",
+    "787.0c062b56.chunk.js.map": "/ISLS/static/js/787.0c062b56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf64400.css",
+    "static/js/main.3da813fb.js"
+  ]
+}
