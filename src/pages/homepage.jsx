@@ -40,7 +40,7 @@ const Homepage = () => {
                                     <div className="title homepage-title">
                                         <p>ISLS-Workshop</p>
                                         <p>AI Augmented Learning for All: Challenges and Opportunities</p>
-                                        <small>June 9, 2024 - Sunday</small>
+                                        <small>Sunday, June 9, 2024 at Diefendorf Hall, University at Buffalo, 140 Diefendorf Loop, Buffalo, NY 14214</small>
                                     </div>
                                 </div>
                                 <div className="subtitle homepage-subtitle">
