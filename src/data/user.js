@@ -123,8 +123,8 @@ const INFO = {
 		{
 			date: "1:00 – 1:45",
 			description: "Interactive session: Multimodality understanding of a learning scenario",
-			moderators: "Moderator: Joshua A. Danish",
-			speakers: "Speakers: Junsong Yuan + All"
+			moderators: "Moderator: Joshua A. Danish, Junsong Yuan",
+			speakers: "Speakers: All"
 		},
 		{
 			date: "1:45 - 2:30",
@@ -139,14 +139,14 @@ const INFO = {
 		{
 			date: "3:00 – 3:45",
 			description: "Interactive session: Advancement of Natural Language Understanding in the midst of Large Language Models",
-			moderators: "Moderator: Cheng Zhai",
-			speakers: "Speakers: Hari Subramonyam + All"
+			moderators: "Moderator: Cheng Zhai, Hari Subramonyam",
+			speakers: "Speakers: All"
 		},
 		{
 			date: "3:45 – 4:30",
 			description: "Interactive session: Automatic Speech Translation for Children",
-			moderators: "Moderator: Jinjun Xiong",
-			speakers: "Speakers: Alison Hendricks + All"
+			moderators: "Moderator: Jinjun Xiong, Alison Hendricks",
+			speakers: "Speakers: All"
 		},
 		{
 			date: "4:30 – 5:00",
