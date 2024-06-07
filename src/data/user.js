@@ -138,7 +138,7 @@ const INFO = {
 		},
 		{
 			date: "3:00 – 3:45",
-			description: "Interactive session: Advancement of Natural Language Understanding in the midst of Large Language Models",
+			description: "Interactive session: Advancement of Natural Language Processing in the midst of Large Language Models",
 			moderators: "Moderator: Cheng Zhai, Hari Subramonyam",
 			speakers: "Speakers: All"
 		},
