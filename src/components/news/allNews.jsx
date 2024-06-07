@@ -14,6 +14,8 @@ const AllNews = () => {
 					<New
 						date={news_item.date}
 						description={news_item.description}
+						moderators={news_item.moderators}
+						speakers={news_item.speakers}
 						link={news_item.link}
 					/>
 				</div>

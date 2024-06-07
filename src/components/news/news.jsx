@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import "./styles/news.css";
 
 const New = (props) => {
-	const { date, description, link } = props;
+	const { date, description, moderators, speakers, link } = props;
 
 	return (
 		<React.Fragment>
@@ -18,6 +18,8 @@ const New = (props) => {
                         <div className="homepage-new-description">
                             {description}
                         </div>
+                        <div className="homepage-new-description">{moderators}</div>
+                        <div className="homepage-new-description">{speakers}</div>
                     </div>
                 </Link>
         </div>

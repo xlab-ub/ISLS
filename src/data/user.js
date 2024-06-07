@@ -94,57 +94,64 @@ const INFO = {
 			link: "https://invite.illinois.edu/",
 		},
 	],
-	news: [
+	news : [
 		{
 			date: "09:00 - 09:30",
-			description:
-				"Intro to AI Institute Program"
+			description: "Intro to AI Institute Program",
+			moderators: "Moderator: Venugopal Govindaraju",
+			speakers: "Speakers: NSF Program Director (Fengfeng Ke), IES Program Director (Britta Bresina)"
 		},
 		{
 			date: "09:30 - 10:30",
-			description:
-				"Overview of the five National AI Institutes"
+			description: "Overview of the five National AI Institutes",
+			moderators: "Moderator: Steve Brown",
+			speakers: "Speakers: Min Kyu Kim – AI-ALOE, Krista Glazewski – EngageAI, Jeffrey Bush – ISAT, Jinjun Xiong – AI4ExceptionalEd, Cheng Zhai – INVITE"
 		},
 		{
 			date: "10:30 - 11:00",
-			description:
-				"Coffee Break"
+			description: "Coffee Break"
 		},
 		{
 			date: "11:00 – 12:00",
-			description:
-				"Demos and Discussion"
+			description: "Demos and Discussion",
+			moderators: "Speakers: All"
 		},
 		{
 			date: "12:00 – 1:00",
-			description:
-				"Lunch Break"
+			description: "Lunch Break"
 		},
 		{
 			date: "1:00 – 1:45",
-			description:
-				"Interactive session: Multimodality understanding of a learning scenario"
+			description: "Interactive session: Multimodality understanding of a learning scenario",
+			moderators: "Moderator: Joshua A. Danish",
+			speakers: "Speakers: Junsong Yuan + All"
 		},
 		{
 			date: "1:45 - 2:30",
-			description:
-				"Panel – connecting learning science careers and AI"
+			description: "Panel – connecting learning science careers and AI",
+			moderators: "Moderator: Blair Lehman",
+			speakers: "Speakers: Diego Zapata-Rivera, Ranga Setlur, Karthik Dantu, Robb Lindgren, Christine Wang"
 		},
 		{
 			date: "2:30 – 3:00",
-			description:
-				"Coffee Break"
+			description: "Coffee Break"
 		},
 		{
-			date: "3:00 – 3:45 ",
-			description:
-				"Interactive session: Advancement of Natural Language Understanding in the midst of Large Language Models"
+			date: "3:00 – 3:45",
+			description: "Interactive session: Advancement of Natural Language Understanding in the midst of Large Language Models",
+			moderators: "Moderator: Cheng Zhai",
+			speakers: "Speakers: Hari Subramonyam + All"
 		},
 		{
-			date: "3:45 – 4:30 ",
-			description:
-				"Interactive session: Automatic Speech Translation for Children"
+			date: "3:45 – 4:30",
+			description: "Interactive session: Automatic Speech Translation for Children",
+			moderators: "Moderator: Jinjun Xiong",
+			speakers: "Speakers: Alison Hendricks + All"
 		},
+		{
+			date: "4:30 – 5:00",
+			description: "Closing Discussion"
+		}
 	],
 };
 
